@@ -1,3 +1,10 @@
+'''
+Made by Arthur Cury Meirelles
+The goal was to make an easy facial rig to use.
+Contact:
+    arthurcurymeirelles@hotmail.com
+    https://www.linkedin.com/in/arthurm3d
+'''
 import maya.cmds as cmds
 
 
